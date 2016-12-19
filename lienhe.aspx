@@ -21,7 +21,7 @@
                                                                                                                                                                     google.maps.event.addDomListener(window, 'load', init_map);</script>
                 </div>
                 <div class="khung">
-                    <h1 style="color:#1747bb">Địa chỉ:</h1>
+                    <h1 style="color:#1747bb">Địa chỉ CT:</h1>
                 </br>
                 <p>
                     999 Hàm Nghi<br />
